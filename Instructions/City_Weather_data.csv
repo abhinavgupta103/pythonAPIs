@@ -1,0 +1,462 @@
+,Country,City,Closest City name,Closest Country code,Latitude,Longitude,Temperature,Wind speed,Humidity,Cloudiness
+0,it,mascalucia,mascalucia,it,37.57,15.05,15.0,1.0,71.0,0.0
+1,pa,boqueron,boqueron,pa,8.51,-82.57,29.0,5.1,70.0,40.0
+2,sn,diourbel,diourbel,sn,14.65,-16.23,26.0,3.1,57.0,0.0
+3,in,mayakonda,mayakonda,in,14.29,76.08,20.83,1.91,86.0,24.0
+4,no,stange,stange,no,60.72,11.19,-0.12,4.96,87.0,92.0
+5,br,carandai,carandai,br,-20.95,-43.81,21.0,2.1,88.0,40.0
+6,de,hennef,hennef,de,50.78,7.28,2.0,0.5,80.0,0.0
+7,za,kimberley,kimberley,za,-28.74,24.76,15.0,1.5,87.0,0.0
+8,ph,magdalena,magdalena,ph,14.2,121.43,25.0,1.0,83.0,20.0
+10,ci,anyama,anyama,ci,5.5,-4.06,28.0,2.1,88.0,0.0
+11,gb,aylesbury,aylesbury,gb,51.82,-0.81,7.0,4.1,73.0,68.0
+12,us,portage lakes,portage lakes,us,41.0,-81.54,7.0,3.1,35.0,40.0
+13,ro,rabagani,rabagani,ro,46.75,22.23,14.0,4.6,82.0,88.0
+14,fr,saverne,saverne,fr,48.74,7.36,5.0,1.0,86.0,0.0
+15,de,miltenberg,miltenberg,de,49.7,9.25,5.0,2.1,74.0,20.0
+16,us,mission bend,mission bend,us,29.69,-95.67,22.0,5.7,78.0,90.0
+17,id,tuban,tuban,id,-6.9,112.07,24.08,1.93,93.0,24.0
+18,gm,farafenni,farafenni,gm,13.57,-15.6,28.78,5.73,25.0,0.0
+19,td,ngama,ngama,td,11.78,17.17,21.13,1.66,51.0,0.0
+21,ye,bajil,bajil,ye,15.06,43.29,22.63,1.58,62.0,0.0
+22,br,mirante do paranapanema,mirante do paranapanema,br,-22.29,-51.91,26.0,3.41,54.0,0.0
+23,us,randallstown,randallstown,us,39.37,-76.8,12.0,4.6,31.0,1.0
+24,ru,kondinskoye,kondinskoye,ru,59.65,67.41,0.03,3.01,96.0,88.0
+25,in,zaidpur,zaidpur,in,26.83,81.33,25.0,4.1,69.0,0.0
+26,ee,lehtmetsa,lehtmetsa,ee,59.32,25.35,6.0,3.1,93.0,90.0
+27,ro,suditi,suditi,ro,44.58,27.6,10.71,3.38,73.0,36.0
+28,ro,agas,agas,ro,46.48,26.22,14.0,7.2,71.0,0.0
+29,in,chapar,chapar,in,26.27,90.47,17.48,0.66,100.0,92.0
+30,ru,urzhum,urzhum,ru,57.11,50.0,-7.1,3.03,68.0,0.0
+31,hn,el chimbo,el chimbo,hn,14.13,-87.12,33.0,5.1,34.0,40.0
+33,ru,priamurskiy,priamurskiy,ru,48.52,134.9,-4.0,3.0,58.0,0.0
+34,ch,geneva,geneva,ch,46.21,6.13,6.0,3.6,93.0,0.0
+35,tr,erzincan,erzincan,tr,39.75,39.49,7.0,2.1,56.0,0.0
+36,us,lake magdalene,lake magdalene,us,28.07,-82.47,27.0,1.5,31.0,1.0
+37,nz,hokitika,hokitika,nz,-42.72,170.96,15.03,2.23,100.0,76.0
+38,in,gulmarg,gulmarg,in,34.05,74.39,4.78,0.83,80.0,80.0
+39,mx,alvarado,alvarado,mx,18.77,-95.76,28.0,4.1,65.0,40.0
+40,jp,mihara,mihara,jp,34.46,133.0,12.0,6.43,87.0,75.0
+41,cu,baracoa,baracoa,cu,20.35,-74.5,24.53,3.61,100.0,0.0
+42,gb,dornoch,dornoch,gb,57.88,-4.03,4.0,1.0,100.0,56.0
+43,mx,tulum,tulum,mx,20.21,-87.46,29.0,5.1,62.0,20.0
+44,ru,kaa-khem,kaa-khem,ru,51.7,94.56,-13.1,1.21,74.0,0.0
+45,se,boo,boo,se,59.33,18.28,6.0,3.6,93.0,80.0
+46,hr,koprivnica,koprivnica,hr,46.16,16.83,8.48,2.86,92.0,0.0
+47,us,irmo,irmo,us,34.09,-81.18,19.0,2.11,20.0,1.0
+48,ru,volokonovka,volokonovka,ru,50.48,37.87,1.31,3.26,82.0,88.0
+49,ru,anuchino,anuchino,ru,43.97,133.06,-1.55,0.78,68.0,92.0
+50,es,benalmadena,benalmadena,es,36.6,-4.57,15.0,1.0,67.0,0.0
+51,fr,libercourt,libercourt,fr,50.48,3.0,5.0,2.6,75.0,0.0
+52,at,murzzuschlag,murzzuschlag,at,47.6,15.68,6.0,0.5,100.0,20.0
+53,ph,calamba,calamba,ph,14.21,121.17,25.0,1.0,83.0,20.0
+54,ro,teliu,teliu,ro,45.7,25.86,7.96,0.78,92.0,64.0
+55,ca,buckingham,buckingham,ca,45.58,-75.42,-2.0,7.7,39.0,40.0
+57,ph,bayog,bayog,ph,7.85,123.04,25.13,1.66,100.0,0.0
+58,ph,bocaue,bocaue,ph,14.8,120.93,25.0,1.0,83.0,20.0
+59,qa,umm bab,umm bab,qa,25.21,50.81,21.46,3.63,65.0,92.0
+60,us,east saint louis,east saint louis,us,38.62,-90.15,18.0,5.7,41.0,1.0
+61,pk,dera ghazi khan,dera ghazi khan,pk,30.03,70.64,21.23,3.01,55.0,0.0
+62,ca,stephenville,stephenville,ca,48.55,-58.59,-2.0,10.3,74.0,90.0
+63,at,villach,villach,at,46.62,13.85,6.0,1.5,93.0,20.0
+64,fr,amboise,amboise,fr,47.41,0.98,6.0,2.6,81.0,0.0
+65,ph,nangka,nangka,ph,14.67,121.11,25.0,1.0,83.0,20.0
+66,ci,sakassou,sakassou,ci,7.45,-5.29,26.03,2.93,83.0,20.0
+67,ee,haabneeme,haabneeme,ee,59.51,24.82,6.0,3.1,93.0,90.0
+68,ph,san vicente,san vicente,ph,14.11,122.87,27.46,5.96,96.0,44.0
+69,us,americus,americus,us,32.07,-84.23,22.0,1.5,11.0,1.0
+70,ph,inobulan,inobulan,ph,8.89,124.79,26.31,2.71,85.0,0.0
+71,lk,kolonnawa,kolonnawa,lk,6.93,79.89,26.0,2.1,83.0,5.0
+72,it,san remo,san remo,it,43.82,7.76,12.0,1.5,76.0,0.0
+73,pt,vila real,vila real,pt,41.3,-7.75,7.23,2.11,89.0,0.0
+74,br,parati,parati,br,-20.51,-54.63,25.0,2.6,73.0,20.0
+75,ro,zlatna,zlatna,ro,46.11,23.22,10.03,0.88,97.0,92.0
+76,us,kennesaw,kennesaw,us,34.02,-84.62,20.0,2.1,20.0,1.0
+77,lk,ratnapura,ratnapura,lk,6.68,80.4,21.18,1.28,95.0,64.0
+78,co,jamundi,jamundi,co,3.26,-76.53,26.0,3.6,61.0,75.0
+79,ua,vasylivka,vasylivka,ua,47.44,35.28,8.0,1.0,61.0,0.0
+80,cl,longavi,longavi,cl,-35.97,-71.68,9.73,0.98,92.0,8.0
+81,mk,gostivar,gostivar,mk,41.79,20.91,14.0,5.7,87.0,75.0
+82,ph,bacayawan,bacayawan,ph,7.77,124.23,21.56,1.21,98.0,0.0
+83,cn,babu,babu,cn,23.23,104.89,11.58,2.33,84.0,92.0
+84,ng,damaturu,damaturu,ng,11.75,11.96,20.88,1.71,51.0,8.0
+85,fr,montlucon,montlucon,fr,46.33,2.6,5.03,2.28,80.0,0.0
+86,ph,tabinay,tabinay,ph,13.49,120.96,23.73,1.58,99.0,12.0
+88,de,herbrechtingen,herbrechtingen,de,48.62,10.18,4.0,1.5,69.0,20.0
+89,us,carrboro,carrboro,us,35.91,-79.08,16.0,2.6,24.0,1.0
+90,in,tezpur,tezpur,in,26.62,92.79,17.91,1.33,96.0,24.0
+91,de,bad tolz,bad tolz,de,47.76,11.56,7.0,2.1,86.0,64.0
+92,in,shrirampur,shrirampur,in,18.86,79.49,23.43,3.93,68.0,44.0
+94,ca,hay river,hay river,ca,60.82,-115.79,-14.0,3.1,60.0,20.0
+95,id,karangampel,karangampel,id,-6.46,108.44,26.41,2.41,100.0,24.0
+96,hu,helvecia,helvecia,hu,46.84,19.62,13.0,3.1,66.0,90.0
+97,in,kotdwara,kotdwara,in,29.75,78.53,14.66,1.61,80.0,76.0
+98,us,cathedral city,cathedral city,us,33.78,-116.46,35.0,4.6,15.0,1.0
+99,in,khutar,khutar,in,28.2,80.28,22.46,2.41,72.0,8.0
+100,in,avanigadda,avanigadda,in,16.02,80.92,24.18,2.18,92.0,0.0
+101,de,augsburg,augsburg,de,48.37,10.9,7.0,1.0,74.0,0.0
+102,ch,therwil,therwil,ch,47.5,7.56,4.0,0.5,93.0,0.0
+103,cr,matina,matina,cr,10.08,-83.29,29.0,4.1,70.0,75.0
+104,us,shoreview,shoreview,us,45.07,-93.13,4.0,3.1,69.0,90.0
+105,zm,luanshya,luanshya,zm,-13.14,28.42,16.73,0.93,99.0,80.0
+106,us,hazleton,hazleton,us,40.96,-75.99,6.0,4.6,35.0,1.0
+107,us,south el monte,south el monte,us,34.05,-118.05,27.0,4.1,53.0,1.0
+108,mg,ambalavao,ambalavao,mg,-21.83,46.94,18.68,2.93,88.0,32.0
+109,ne,niamey,niamey,ne,13.52,2.11,31.0,1.16,5.0,48.0
+110,us,sugar hill,sugar hill,us,34.11,-84.03,20.0,1.91,22.0,1.0
+111,jp,maebaru,maebaru,jp,33.55,130.2,17.0,7.7,93.0,75.0
+112,id,kedungwaru,kedungwaru,id,-8.06,111.91,23.53,1.68,96.0,20.0
+113,ca,saint-felicien,saint-felicien,ca,48.65,-72.45,-9.0,10.3,47.0,90.0
+114,hn,manto,manto,hn,14.92,-86.37,30.0,1.0,48.0,40.0
+116,th,phanom sarakham,phanom sarakham,th,13.75,101.35,27.0,2.1,78.0,20.0
+117,ru,raychikhinsk,raychikhinsk,ru,49.8,129.4,-2.6,2.41,54.0,0.0
+118,nl,oud-beijerland,oud-beijerland,nl,51.83,4.42,6.0,1.0,86.0,20.0
+119,jp,yotsukaido,yotsukaido,jp,35.67,140.18,18.0,5.1,100.0,40.0
+120,id,besuki,besuki,id,-7.73,113.69,25.08,1.91,100.0,12.0
+121,gb,dunstable,dunstable,gb,51.89,-0.52,7.0,4.1,73.0,68.0
+123,gb,stratford-upon-avon,stratford-upon-avon,gb,52.19,-1.71,5.0,3.6,75.0,0.0
+124,cn,anshun,anshun,cn,26.25,105.93,5.73,6.21,97.0,92.0
+125,br,piraju,piraju,br,-23.19,-49.38,22.48,4.18,69.0,56.0
+126,us,melville,melville,us,30.69,-91.74,22.0,3.18,60.0,90.0
+127,fr,chalette-sur-loing,chalette-sur-loing,fr,48.01,2.74,5.0,3.1,80.0,0.0
+128,de,wertheim,wertheim,de,49.76,9.51,3.0,2.1,74.0,20.0
+129,ru,kanadey,kanadey,ru,53.17,47.53,-5.6,3.31,80.0,0.0
+130,bw,gweta,gweta,bw,-20.21,25.26,18.81,1.48,91.0,92.0
+131,no,horten,horten,no,59.42,10.48,2.0,5.1,55.0,80.0
+132,my,keningau,keningau,my,5.33,116.16,24.0,2.6,88.0,75.0
+133,ua,zachepylivka,zachepylivka,ua,49.2,35.24,7.23,3.08,73.0,92.0
+134,br,elias fausto,elias fausto,br,-23.04,-47.37,26.0,2.6,50.0,0.0
+135,ph,okiot,okiot,ph,9.57,123.17,25.58,2.38,73.0,68.0
+136,us,fern park,fern park,us,28.65,-81.35,26.0,5.7,44.0,1.0
+137,de,osterholz-scharmbeck,osterholz-scharmbeck,de,53.23,8.79,3.0,3.1,90.0,20.0
+138,ca,athabasca,athabasca,ca,54.72,-113.29,-9.6,3.41,73.0,0.0
+139,us,north lindenhurst,north lindenhurst,us,40.71,-73.38,7.0,6.7,24.0,20.0
+140,ro,ruscova,ruscova,ro,47.79,24.28,6.88,0.88,100.0,88.0
+142,cu,batabano,batabano,cu,22.72,-82.29,26.0,4.1,65.0,40.0
+143,hu,nyirabrany,nyirabrany,hu,47.55,22.02,13.0,3.1,82.0,68.0
+146,in,manvi,manvi,in,16.0,77.05,19.83,1.96,92.0,8.0
+147,ph,bayang,bayang,ph,7.79,124.2,21.56,1.21,98.0,0.0
+149,tr,keskin,keskin,tr,39.67,33.62,2.66,1.11,77.0,0.0
+150,rs,novi becej,novi becej,rs,45.6,20.14,12.93,3.61,99.0,100.0
+151,am,pemzashen,pemzashen,am,40.59,43.94,8.0,1.28,86.0,36.0
+152,be,mechelen,mechelen,be,51.03,4.48,5.0,1.5,80.0,0.0
+153,uz,tuytepa,tuytepa,uz,41.03,69.36,16.0,2.1,59.0,0.0
+154,bg,kubrat,kubrat,bg,43.8,26.5,12.53,1.33,87.0,48.0
+155,lt,priekule,priekule,lt,55.55,21.33,4.0,3.6,100.0,92.0
+156,us,saint charles,saint charles,us,41.91,-88.31,4.0,3.6,100.0,90.0
+157,et,robe,robe,et,7.12,40.01,8.53,1.21,88.0,12.0
+158,co,tuquerres,tuquerres,co,1.09,-77.62,12.0,2.1,87.0,75.0
+159,am,shnogh,shnogh,am,41.15,44.84,7.0,2.1,87.0,90.0
+160,gb,bexhill,bexhill,gb,50.84,0.47,7.0,5.1,81.0,32.0
+161,ua,horodok,horodok,ua,49.78,23.65,13.0,4.0,66.0,0.0
+162,br,cacapava,cacapava,br,-23.1,-45.71,26.0,3.6,83.0,20.0
+164,ro,tilisca,tilisca,ro,45.8,23.85,12.0,1.5,66.0,0.0
+165,mx,champoton,champoton,mx,19.35,-90.72,28.0,5.1,78.0,40.0
+166,ee,elva,elva,ee,58.22,26.41,9.0,5.7,93.0,0.0
+167,in,mahuva,mahuva,in,21.09,71.76,27.03,5.61,99.0,80.0
+168,ua,makariv,makariv,ua,50.46,29.81,10.0,4.0,61.0,32.0
+169,ro,vartop,vartop,ro,44.2,23.35,14.0,2.6,76.0,0.0
+170,br,pirapozinho,pirapozinho,br,-22.27,-51.5,26.0,3.83,54.0,0.0
+171,li,schellenberg,schellenberg,li,47.23,9.55,8.0,1.0,70.0,90.0
+172,ua,chapayevka,chapayevka,ua,47.47,36.35,7.31,3.73,66.0,92.0
+173,pa,santo domingo,santo domingo,pa,7.75,-80.23,27.83,3.16,68.0,48.0
+174,co,zapatoca,zapatoca,co,6.82,-73.27,31.0,7.7,100.0,90.0
+175,dk,korsor,korsor,dk,55.33,11.14,3.0,9.3,74.0,0.0
+176,ni,sebaco,sebaco,ni,12.85,-86.1,27.0,2.1,47.0,40.0
+177,mx,macuspana,macuspana,mx,17.76,-92.6,33.0,3.1,46.0,40.0
+178,in,barnala,barnala,in,30.38,75.54,18.43,1.01,91.0,24.0
+179,mx,chapulco,chapulco,mx,18.62,-97.41,16.88,1.16,85.0,80.0
+180,de,bergisch gladbach,bergisch gladbach,de,50.99,7.13,1.0,0.5,80.0,0.0
+181,ro,grozesti,grozesti,ro,44.65,23.32,14.0,2.6,76.0,0.0
+182,ru,sredneuralsk,sredneuralsk,ru,56.99,60.47,3.0,5.0,74.0,0.0
+183,rs,subotica,subotica,rs,46.1,19.66,12.0,1.0,100.0,90.0
+184,br,canoas,canoas,br,-29.92,-51.18,23.0,2.6,82.0,20.0
+185,mu,cluny,cluny,mu,-20.37,57.6,25.0,3.1,83.0,75.0
+186,ua,bilozerka,bilozerka,ua,46.63,32.45,8.18,1.26,78.0,100.0
+187,us,lenoir,lenoir,us,35.91,-81.54,18.0,2.6,18.0,1.0
+188,ph,potong,potong,ph,12.34,125.28,26.93,5.33,100.0,56.0
+189,br,itapicuru,itapicuru,br,-11.31,-38.22,28.43,5.21,52.0,24.0
+190,ru,borogontsy,borogontsy,ru,62.67,131.17,-6.1,2.33,75.0,12.0
+191,gr,gouria,gouria,gr,38.47,21.26,15.0,1.0,81.0,75.0
+192,pg,kundiawa,kundiawa,pg,-6.02,144.97,18.31,1.01,92.0,48.0
+193,be,de pinte,de pinte,be,50.99,3.65,5.0,2.6,75.0,0.0
+194,sa,sayhat,sayhat,sa,26.49,50.04,25.0,5.7,60.0,75.0
+195,it,san nicola,san nicola,it,40.61,8.99,13.0,4.6,62.0,0.0
+196,pe,chaupimarca,chaupimarca,pe,-10.43,-76.53,5.43,1.33,100.0,80.0
+197,us,elk grove,elk grove,us,38.41,-121.37,18.0,3.6,55.0,90.0
+199,be,boussu,boussu,be,50.43,3.8,5.0,2.6,75.0,0.0
+200,co,urrao,urrao,co,6.32,-76.13,21.0,3.1,77.0,75.0
+201,gr,kokkinokhoma,kokkinokhoma,gr,40.93,24.3,12.0,0.83,87.0,0.0
+202,mu,bon accueil,bon accueil,mu,-20.17,57.66,25.0,3.1,83.0,75.0
+203,ch,kerns,kerns,ch,46.9,8.28,8.0,2.1,70.0,75.0
+204,ph,ineangan,ineangan,ph,16.32,121.09,20.33,1.21,97.0,64.0
+207,in,mahishadal,mahishadal,in,22.19,87.98,25.0,4.1,83.0,40.0
+208,in,radhanpur,radhanpur,in,23.83,71.61,23.71,3.63,66.0,0.0
+209,hu,koszeg,koszeg,hu,47.39,16.54,9.56,6.56,73.0,0.0
+210,am,talin,talin,am,40.38,43.87,8.0,1.23,86.0,0.0
+211,ua,smila,smila,ua,49.23,31.88,7.23,4.86,68.0,36.0
+212,gr,tinos,tinos,gr,37.54,25.16,16.0,1.5,87.0,20.0
+213,in,patamundai,patamundai,in,20.57,86.57,24.41,3.38,95.0,0.0
+214,jp,sasayama,sasayama,jp,35.07,135.23,17.0,2.1,67.0,75.0
+215,ni,jalapa,jalapa,ni,13.92,-86.13,22.63,1.36,64.0,12.0
+216,ph,apitong,apitong,ph,11.22,124.99,25.38,2.78,100.0,88.0
+217,it,veroli,veroli,it,41.69,13.42,7.41,1.83,92.0,0.0
+218,us,plaistow,plaistow,us,42.84,-71.09,5.0,8.7,25.0,20.0
+219,ro,brodina,brodina,ro,47.88,25.43,5.46,0.78,89.0,44.0
+220,ru,karpushikha,karpushikha,ru,57.5,59.9,-0.55,3.91,89.0,92.0
+222,br,iguaba grande,iguaba grande,br,-22.84,-42.23,26.0,4.1,83.0,75.0
+223,hu,szod,szod,hu,47.72,19.17,13.0,6.7,66.0,0.0
+224,us,beach park,beach park,us,42.42,-87.86,7.0,6.7,41.0,90.0
+225,jp,ishioka,ishioka,jp,36.19,140.29,16.0,5.1,100.0,40.0
+226,td,bitkine,bitkine,td,11.98,18.21,20.16,1.66,51.0,0.0
+227,it,massafra,massafra,it,40.59,17.12,12.0,4.6,81.0,20.0
+228,tw,kaohsiung,kaohsiung,tw,22.62,120.31,24.0,1.5,78.0,75.0
+229,gr,sevastiana,sevastiana,gr,40.77,22.12,10.88,0.93,93.0,80.0
+230,ug,bugembe,bugembe,ug,0.48,33.23,17.58,1.48,95.0,80.0
+231,gr,epanomi,epanomi,gr,40.43,22.93,13.0,1.5,76.0,40.0
+232,gb,tonbridge,tonbridge,gb,51.19,0.27,7.0,3.1,80.0,0.0
+233,sv,nueva guadalupe,nueva guadalupe,sv,13.53,-88.35,31.0,5.1,62.0,20.0
+234,cz,jemnice,jemnice,cz,49.02,15.57,7.0,7.7,75.0,0.0
+235,cz,vresina,vresina,cz,49.82,18.13,10.0,2.6,71.0,75.0
+236,us,gloucester,gloucester,us,37.41,-76.53,16.0,2.1,22.0,1.0
+237,us,allouez,allouez,us,44.48,-88.02,4.0,4.1,47.0,1.0
+238,cz,jachymov,jachymov,cz,50.36,12.93,4.0,5.1,68.0,75.0
+239,ee,rapina,rapina,ee,58.1,27.46,9.0,2.0,100.0,0.0
+240,no,hjelset,hjelset,no,62.78,7.5,1.0,5.7,86.0,80.0
+241,no,fevik,fevik,no,58.38,8.68,3.0,7.2,69.0,0.0
+242,ua,bushtyno,bushtyno,ua,48.05,23.49,13.0,2.6,87.0,92.0
+243,id,dumai,dumai,id,1.68,101.45,23.56,1.61,99.0,64.0
+244,pa,la mesa,la mesa,pa,8.15,-81.19,25.16,0.76,68.0,48.0
+246,ro,visina,visina,ro,44.58,25.33,17.0,2.1,67.0,0.0
+247,am,brnakot,brnakot,am,39.5,45.97,8.0,3.1,70.0,40.0
+248,za,kriel,kriel,za,-26.26,29.26,8.83,1.43,87.0,8.0
+249,pe,ayna,ayna,pe,-12.72,-73.91,24.0,3.6,38.0,40.0
+250,de,besigheim,besigheim,de,49.0,9.14,5.0,3.1,77.0,0.0
+251,ua,pryozerne,pryozerne,ua,49.42,24.47,13.0,4.0,66.0,0.0
+252,nl,schinnen,schinnen,nl,50.94,5.89,4.0,2.1,82.0,20.0
+253,ro,stiubieni,stiubieni,ro,47.97,26.78,12.0,2.6,71.0,0.0
+254,ru,lipki,lipki,ru,53.94,37.7,-0.72,4.58,94.0,24.0
+255,ch,zollikofen,zollikofen,ch,47.0,7.46,8.0,0.5,97.0,0.0
+256,ro,mihalt,mihalt,ro,46.15,23.73,12.0,1.5,66.0,0.0
+257,ph,abulug,abulug,ph,18.45,121.45,25.08,3.71,90.0,24.0
+258,br,bonito,bonito,br,-1.36,-47.3,24.33,2.03,94.0,64.0
+259,cu,los palacios,los palacios,cu,22.59,-83.25,25.06,2.48,65.0,24.0
+261,ph,toong,toong,ph,14.09,120.78,25.0,1.0,83.0,20.0
+262,be,drogenbos,drogenbos,be,50.79,4.32,5.0,1.5,80.0,0.0
+263,ir,yazd,yazd,ir,31.89,54.36,15.0,2.1,80.0,40.0
+265,mx,cuitzeo,cuitzeo,mx,20.33,-102.78,31.0,6.7,8.0,5.0
+266,fr,hyeres,hyeres,fr,43.12,6.14,10.0,1.5,76.0,0.0
+268,lu,tuntange,tuntange,lu,49.72,6.01,3.0,2.6,90.0,0.0
+269,gb,consett,consett,gb,54.85,-1.83,7.0,1.0,75.0,0.0
+270,gr,galia,galia,gr,35.08,24.87,11.0,4.6,87.0,0.0
+271,in,shahkot,shahkot,in,31.08,75.34,18.68,1.26,87.0,36.0
+272,ng,offa,offa,ng,7.97,4.32,28.0,5.1,74.0,0.0
+273,fr,croissy-sur-seine,croissy-sur-seine,fr,48.88,2.13,7.0,2.6,65.0,0.0
+274,ph,san juan de mata,san juan de mata,ph,15.53,120.53,23.0,1.0,83.0,75.0
+275,ro,livezeni,livezeni,ro,46.55,24.63,11.0,2.6,76.0,48.0
+277,fr,mantes-la-ville,mantes-la-ville,fr,48.97,1.71,7.0,3.1,86.0,0.0
+278,fi,muhos,muhos,fi,64.81,26.0,3.0,2.6,93.0,92.0
+279,ru,osinovo,osinovo,ru,62.87,42.79,3.21,3.31,97.0,92.0
+280,fi,laukaa,laukaa,fi,62.42,25.95,4.0,2.1,100.0,90.0
+281,pt,evora,evora,pt,38.57,-7.9,12.0,3.1,71.0,0.0
+282,us,jersey city,jersey city,us,40.73,-74.08,7.0,7.2,30.0,40.0
+283,cu,palmira,palmira,cu,22.24,-80.39,27.0,1.5,88.0,68.0
+284,id,sumenep,sumenep,id,-7.02,113.87,29.41,3.58,94.0,56.0
+285,ru,gorokhovets,gorokhovets,ru,56.21,42.68,-2.0,3.63,63.0,0.0
+286,pk,shorkot,shorkot,pk,30.83,72.08,21.13,2.33,71.0,0.0
+287,hr,rijeka,rijeka,hr,45.33,14.44,13.0,2.6,100.0,40.0
+288,de,glauchau,glauchau,de,50.82,12.54,3.63,4.73,71.0,0.0
+289,ru,dzhiginka,dzhiginka,ru,45.13,37.34,7.0,5.0,81.0,8.0
+290,us,peekskill,peekskill,us,41.29,-73.92,7.0,8.2,27.0,40.0
+291,hn,los arroyos,los arroyos,hn,14.64,-88.89,24.68,1.26,41.0,32.0
+292,ua,berdychiv,berdychiv,ua,49.89,28.58,10.73,4.81,85.0,0.0
+293,lu,clervaux,clervaux,lu,50.05,6.03,3.0,2.6,90.0,0.0
+294,nz,bombay,bombay,nz,-37.19,174.99,19.0,2.6,77.0,36.0
+295,jp,suzuka,suzuka,jp,34.89,136.59,16.0,3.6,93.0,75.0
+296,us,woodhaven,woodhaven,us,42.14,-83.25,6.0,4.6,41.0,40.0
+297,ru,zalesovo,zalesovo,ru,54.0,84.74,-12.47,1.28,55.0,12.0
+298,nz,waihi,waihi,nz,-37.39,175.84,21.43,0.98,66.0,88.0
+299,de,baunatal,baunatal,de,51.26,9.41,2.0,1.5,86.0,0.0
+300,gb,kincardine,kincardine,gb,56.07,-3.72,6.0,1.5,75.0,0.0
+302,mw,lilongwe,lilongwe,mw,-13.97,33.79,18.0,1.58,100.0,0.0
+303,ph,magdiwang,magdiwang,ph,12.49,122.51,26.18,4.43,100.0,100.0
+304,uz,parkent,parkent,uz,41.29,69.68,16.0,2.1,59.0,0.0
+305,in,charkhi dadri,charkhi dadri,in,28.59,76.27,20.68,1.46,73.0,92.0
+307,ua,nemyriv,nemyriv,ua,50.1,23.44,13.0,4.0,66.0,0.0
+308,ph,cabadiangan,cabadiangan,ph,10.45,123.98,25.0,1.5,83.0,20.0
+311,hn,guaimaca,guaimaca,hn,14.53,-86.82,28.0,5.1,34.0,40.0
+312,us,scranton,scranton,us,41.41,-75.66,3.0,5.7,34.0,90.0
+313,hu,nagyrabe,nagyrabe,hu,47.2,21.33,13.0,3.6,82.0,88.0
+314,sv,berlin,berlin,sv,13.5,-88.53,31.0,5.1,62.0,20.0
+315,bg,mezdra,mezdra,bg,43.14,23.71,14.0,2.6,93.0,75.0
+316,se,boden,boden,se,65.83,21.69,-1.0,3.1,100.0,88.0
+317,us,clute,clute,us,29.02,-95.4,23.0,4.1,83.0,90.0
+318,fr,drancy,drancy,fr,48.92,2.45,7.0,3.1,86.0,0.0
+319,ro,bumbesti-jiu,bumbesti-jiu,ro,45.18,23.38,11.03,1.58,84.0,76.0
+321,ci,boundiali,boundiali,ci,9.53,-6.48,23.03,2.03,80.0,44.0
+322,co,ramiriqui,ramiriqui,co,5.4,-73.34,11.46,0.81,100.0,92.0
+323,th,nong chik,nong chik,th,6.84,101.18,22.43,1.28,92.0,0.0
+324,ru,kovylkino,kovylkino,ru,54.04,43.91,-8.82,1.23,62.0,0.0
+325,pl,paslek,paslek,pl,54.06,19.66,8.58,5.03,92.0,88.0
+326,in,sorab,sorab,in,14.38,75.1,21.21,1.28,90.0,76.0
+327,ro,fitionesti,fitionesti,ro,45.98,27.05,13.0,7.2,76.0,0.0
+328,ch,huttwil,huttwil,ch,47.11,7.85,8.0,3.1,86.0,0.0
+329,ro,tacuta,tacuta,ro,46.92,27.68,11.0,6.2,66.0,0.0
+330,pk,johi,johi,pk,26.69,67.61,22.56,1.36,66.0,80.0
+331,tz,mtama,mtama,tz,-10.3,39.37,21.78,1.28,92.0,48.0
+332,bg,burgas,burgas,bg,42.49,27.45,11.0,3.6,71.0,0.0
+333,de,eutin,eutin,de,54.14,10.62,3.0,3.6,86.0,75.0
+334,ph,tinago,tinago,ph,13.63,123.19,26.28,4.58,86.0,48.0
+335,sk,giraltovce,giraltovce,sk,49.11,21.52,11.0,5.7,81.0,75.0
+337,nl,blaricum,blaricum,nl,52.27,5.24,3.0,1.5,93.0,0.0
+338,ro,gheorghe lazar,gheorghe lazar,ro,44.63,27.45,10.71,3.38,73.0,36.0
+339,md,dubasari,dubasari,md,47.26,29.16,10.0,3.6,81.0,75.0
+340,nl,the hague,the hague,nl,52.08,4.31,6.0,1.0,86.0,12.0
+341,tz,igurusi,igurusi,tz,-8.83,33.85,11.13,1.03,90.0,0.0
+342,ke,webuye,webuye,ke,0.62,34.77,15.0,2.1,87.0,75.0
+343,ro,jamu mare,jamu mare,ro,45.26,21.42,13.0,3.6,93.0,75.0
+344,br,itarana,itarana,br,-19.87,-40.88,22.21,1.16,95.0,88.0
+345,cn,xianyang,xianyang,cn,34.31,108.72,9.0,5.0,12.0,20.0
+346,ec,san cristobal,san cristobal,ec,-1.02,-79.44,16.71,0.33,100.0,88.0
+347,gb,fairlie,fairlie,gb,55.76,-4.86,6.0,3.6,100.0,76.0
+348,mx,copala,copala,mx,16.61,-98.97,27.06,2.38,61.0,0.0
+350,ph,cabiraoan,cabiraoan,ph,18.32,122.09,25.63,4.51,100.0,20.0
+351,us,terryville,terryville,us,29.19,-97.07,22.0,4.1,94.0,90.0
+352,ru,beloretsk,beloretsk,ru,58.67,52.48,-8.77,2.51,61.0,0.0
+353,jp,edosaki,edosaki,jp,35.95,140.32,18.0,5.1,100.0,40.0
+354,us,green haven,green haven,us,46.54,-86.02,0.0,7.2,58.0,90.0
+355,my,kinarut,kinarut,my,5.82,116.05,24.0,2.6,88.0,75.0
+356,ru,kytmanovo,kytmanovo,ru,53.46,85.45,-13.02,1.28,50.0,20.0
+357,az,hadrut,hadrut,az,39.52,47.03,4.56,1.11,96.0,88.0
+358,mx,tarecuato,tarecuato,mx,19.84,-102.47,25.73,1.78,30.0,0.0
+359,ua,subottsi,subottsi,ua,48.65,32.52,7.78,4.03,69.0,44.0
+360,no,dale,dale,no,61.36,5.4,2.0,2.1,80.0,88.0
+361,br,itapema,itapema,br,-27.09,-48.61,20.0,3.1,88.0,40.0
+362,gt,san agustin acasaguastlan,san agustin acasaguastlan,gt,14.95,-89.97,25.58,0.68,36.0,32.0
+363,ph,payuhan,payuhan,ph,5.94,120.9,29.08,2.01,88.0,24.0
+364,ru,povorino,povorino,ru,51.2,42.24,-8.8,1.28,68.0,0.0
+365,ne,ouallam,ouallam,ne,14.32,2.08,24.18,1.51,36.0,80.0
+366,br,tapejara,tapejara,br,-23.73,-52.87,19.33,2.91,74.0,0.0
+367,lu,bergem,bergem,lu,49.53,6.04,4.0,2.6,90.0,0.0
+368,gb,dunlop,dunlop,gb,55.71,-4.53,6.0,3.6,100.0,76.0
+369,ru,orel-izumrud,orel-izumrud,ru,43.46,39.92,8.0,2.91,70.0,0.0
+370,cz,nivnice,nivnice,cz,48.98,17.64,12.0,5.7,62.0,0.0
+371,br,uruguaiana,uruguaiana,br,-29.77,-57.08,26.0,1.5,57.0,0.0
+372,pl,grodzisk mazowiecki,grodzisk mazowiecki,pl,52.11,20.63,10.0,1.5,76.0,0.0
+373,in,madanapalle,madanapalle,in,13.56,78.5,18.71,1.38,88.0,0.0
+374,ph,polloc,polloc,ph,7.36,124.22,24.46,2.78,100.0,68.0
+375,mx,tecamachalco,tecamachalco,mx,18.89,-97.73,15.16,1.33,100.0,44.0
+376,mu,notre dame,notre dame,mu,-20.14,57.55,25.0,3.1,83.0,75.0
+377,us,lakeside,lakeside,us,37.61,-77.48,14.0,2.1,20.0,1.0
+378,ph,santa cecilia,santa cecilia,ph,14.1,122.25,27.08,5.11,92.0,0.0
+379,my,pulau sebang,pulau sebang,my,2.44,102.23,26.0,1.5,83.0,75.0
+380,gt,sayaxche,sayaxche,gt,16.52,-90.17,29.88,3.48,47.0,80.0
+381,ph,digos,digos,ph,6.74,125.36,24.0,1.0,88.0,75.0
+382,tr,genc,genc,tr,38.75,40.56,-3.12,0.98,66.0,0.0
+383,ru,biskamzha,biskamzha,ru,53.45,89.53,-14.92,0.83,54.0,0.0
+385,ro,margina,margina,ro,45.86,22.27,11.16,1.06,98.0,92.0
+386,br,paripiranga,paripiranga,br,-10.68,-37.86,26.21,3.98,66.0,44.0
+387,cn,shashi,shashi,cn,27.02,114.08,7.93,1.61,100.0,92.0
+389,za,randfontein,randfontein,za,-26.17,27.69,13.0,3.1,87.0,0.0
+390,np,birganj,birganj,np,27.01,84.88,19.56,3.38,92.0,20.0
+391,ro,hodac,hodac,ro,46.77,24.92,11.0,2.6,76.0,92.0
+392,de,mosbach,mosbach,de,49.35,9.15,5.0,2.1,74.0,20.0
+393,us,richton park,richton park,us,41.48,-87.7,4.0,3.6,100.0,90.0
+394,th,nong bua,nong bua,th,15.87,100.58,24.53,1.68,87.0,48.0
+395,ua,frunze,frunze,ua,46.83,29.88,8.98,3.93,75.0,64.0
+396,cz,luze,luze,cz,49.89,16.03,9.0,5.1,70.0,75.0
+397,fr,concarneau,concarneau,fr,47.88,-3.92,8.0,4.6,87.0,0.0
+398,mx,tula,tula,mx,18.59,-95.38,25.08,3.18,83.0,24.0
+399,ph,santa ana,santa ana,ph,15.09,120.77,25.0,1.0,83.0,75.0
+400,dk,storvorde,storvorde,dk,57.0,10.1,2.78,12.46,87.0,0.0
+401,mx,tultitlan,tultitlan,mx,19.65,-99.17,24.0,6.2,48.0,90.0
+402,pl,gostyn,gostyn,pl,51.88,17.01,8.0,8.2,75.0,75.0
+403,es,chipiona,chipiona,es,36.74,-6.44,17.0,1.5,71.0,0.0
+404,ph,dumanjug,dumanjug,ph,10.06,123.44,25.0,1.5,83.0,20.0
+405,at,lauterach,lauterach,at,47.48,9.73,8.0,1.0,70.0,90.0
+406,mx,actopan,actopan,mx,20.27,-98.94,17.96,0.38,73.0,20.0
+407,ph,adela,adela,ph,12.44,120.97,23.88,1.56,89.0,0.0
+408,ru,khabary,khabary,ru,53.63,79.53,-2.12,5.86,81.0,8.0
+409,ru,krasnokholmskiy,krasnokholmskiy,ru,55.99,55.05,-0.77,4.98,92.0,64.0
+411,cn,longkou,longkou,cn,37.64,120.47,6.06,13.08,83.0,0.0
+412,ph,guinacutan,guinacutan,ph,14.17,122.89,27.46,5.96,96.0,44.0
+413,ph,lanao,lanao,ph,7.02,125.09,24.0,1.0,88.0,75.0
+414,mx,yajalon,yajalon,mx,17.17,-92.33,25.31,0.58,67.0,68.0
+415,ru,chekalin,chekalin,ru,54.1,36.24,1.33,4.73,93.0,64.0
+416,it,senigallia,senigallia,it,43.71,13.22,10.0,0.5,93.0,0.0
+417,ru,verkh-suetka,verkh-suetka,ru,53.3,80.05,-2.12,5.86,81.0,8.0
+418,ro,cupseni,cupseni,ro,47.55,23.93,9.71,0.91,94.0,68.0
+419,gr,mournies,mournies,gr,35.03,25.57,11.0,4.6,87.0,0.0
+420,tr,carsamba,carsamba,tr,41.2,36.72,8.0,1.0,93.0,0.0
+421,de,buckeburg,buckeburg,de,52.26,9.05,3.0,2.1,80.0,12.0
+422,jp,sakaide,sakaide,jp,34.31,133.87,14.0,3.1,82.0,75.0
+423,in,bari,bari,in,23.03,78.08,21.56,2.16,42.0,0.0
+424,ru,nevyansk,nevyansk,ru,57.49,60.21,-0.55,3.91,89.0,92.0
+425,pl,biskupiec,biskupiec,pl,53.87,20.96,7.96,5.26,94.0,92.0
+426,in,shirpur,shirpur,in,21.35,74.88,23.91,3.06,59.0,64.0
+427,br,buriti dos lopes,buriti dos lopes,br,-3.18,-41.87,28.0,4.1,83.0,75.0
+428,co,cucunuba,cucunuba,co,5.25,-73.77,11.63,1.01,96.0,92.0
+429,ph,la granja,la granja,ph,10.41,122.99,24.16,1.36,97.0,32.0
+430,ru,chernyanka,chernyanka,ru,50.94,37.8,1.21,3.73,85.0,80.0
+431,cn,datong,datong,cn,40.09,113.3,-5.32,8.66,80.0,68.0
+432,br,lagoa vermelha,lagoa vermelha,br,-28.21,-51.53,17.63,3.46,86.0,32.0
+433,cz,votice,votice,cz,49.64,14.64,8.0,6.7,65.0,20.0
+434,be,stekene,stekene,be,51.21,4.04,4.0,1.0,71.0,90.0
+435,mx,huixquilucan,huixquilucan,mx,19.36,-99.35,30.0,6.2,48.0,90.0
+436,ec,portoviejo,portoviejo,ec,-1.05,-80.45,26.0,3.1,74.0,75.0
+437,ro,baluseni,baluseni,ro,47.67,26.8,12.0,2.6,71.0,0.0
+438,ca,albanel,albanel,ca,48.88,-72.44,-9.0,10.3,47.0,90.0
+439,ba,prijedor,prijedor,ba,44.98,16.71,12.0,6.7,81.0,20.0
+440,pk,sohbatpur,sohbatpur,pk,28.52,68.54,22.31,1.38,51.0,8.0
+441,ru,ust-tarka,ust-tarka,ru,55.56,75.71,-4.62,4.66,86.0,64.0
+442,us,mashpee,mashpee,us,41.65,-70.48,6.0,9.8,27.0,1.0
+443,am,agarakadzor,agarakadzor,am,39.74,45.35,8.0,3.1,70.0,40.0
+444,us,harrison,harrison,us,39.26,-84.82,11.0,2.6,34.0,75.0
+445,ca,mitchell,mitchell,ca,49.53,-96.76,-5.0,4.6,49.0,90.0
+446,mx,nautla,nautla,mx,20.22,-96.78,23.81,2.68,100.0,88.0
+447,ru,taldom,taldom,ru,56.73,37.53,1.43,5.73,91.0,68.0
+448,br,seropedica,seropedica,br,-22.74,-43.71,26.0,4.1,78.0,90.0
+449,es,baeza,baeza,es,37.99,-3.47,9.08,0.53,82.0,56.0
+450,sv,coatepeque,coatepeque,sv,13.93,-89.5,30.0,1.0,45.0,20.0
+451,bd,rajshahi,rajshahi,bd,24.37,88.59,20.16,3.76,97.0,76.0
+452,de,trossingen,trossingen,de,48.08,8.64,4.0,0.5,86.0,75.0
+453,ru,alekseyevskaya,alekseyevskaya,ru,45.77,40.15,6.28,3.48,79.0,12.0
+455,us,clovis,clovis,us,36.83,-119.7,26.0,4.6,25.0,1.0
+456,ph,lagasit,lagasit,ph,15.99,120.79,22.48,1.28,100.0,44.0
+457,in,tarapur,tarapur,in,22.49,72.66,28.0,3.53,37.0,80.0
+458,hu,alsozsolca,alsozsolca,hu,48.07,20.88,10.98,1.81,93.0,92.0
+459,th,prachin buri,prachin buri,th,14.05,101.37,24.38,1.11,90.0,8.0
+460,ir,borazjan,borazjan,ir,29.27,51.21,24.0,3.1,50.0,0.0
+461,de,grevesmuhlen,grevesmuhlen,de,53.87,11.18,3.03,8.53,93.0,8.0
+462,hu,zagyvarekas,zagyvarekas,hu,47.27,20.13,13.0,2.1,71.0,90.0
+463,ro,stefan cel mare,stefan cel mare,ro,46.98,26.52,13.0,7.2,76.0,0.0
+465,nl,montfoort,montfoort,nl,52.04,4.95,3.0,1.5,93.0,0.0
+466,bz,dangriga,dangriga,bz,16.97,-88.23,30.0,4.1,66.0,20.0
+467,ph,bogo,bogo,ph,11.05,124.01,26.91,2.86,100.0,0.0
+468,ca,pinawa,pinawa,ca,50.15,-95.88,-7.6,5.48,60.0,64.0
+469,gt,tejutla,tejutla,gt,15.12,-91.81,24.0,0.91,94.0,90.0
+470,ph,tuyom,tuyom,ph,9.98,122.56,26.81,5.16,100.0,0.0
+471,in,chakan,chakan,in,18.76,73.86,18.21,2.13,95.0,32.0
+472,id,manado,manado,id,1.49,124.85,24.0,1.0,94.0,20.0
+473,be,aalst,aalst,be,50.94,4.04,5.0,1.5,80.0,0.0
+474,id,biak,biak,id,-0.91,122.88,27.21,1.26,98.0,0.0
+475,ru,novoanninskiy,novoanninskiy,ru,50.53,42.67,-3.35,1.23,82.0,0.0
+476,ro,galanesti,galanesti,ro,47.92,25.8,12.0,2.6,71.0,0.0
+479,br,curitiba,curitiba,br,-25.43,-49.27,18.0,3.6,93.0,75.0
+480,fr,la valette-du-var,la valette-du-var,fr,43.14,5.98,10.0,1.5,76.0,0.0
+481,pk,pano aqil,pano aqil,pk,27.86,69.11,27.0,1.28,57.0,40.0
+482,si,ptuj,ptuj,si,46.42,15.87,8.0,1.0,93.0,90.0
+483,ro,sagu,sagu,ro,46.05,21.28,12.0,3.1,93.0,92.0
+484,au,ballarat,ballarat,au,-37.56,143.86,13.56,1.83,89.0,68.0
+485,gb,chatham,rochester,gb,51.39,0.5,7.0,4.6,65.0,48.0
+486,ne,gaya,gaya,ne,11.88,3.46,24.53,2.36,46.0,0.0
+487,de,baiersbronn,baiersbronn,de,48.51,8.37,5.0,1.0,86.0,0.0
+488,hu,diosjeno,diosjeno,hu,47.94,19.04,13.0,6.7,66.0,0.0
+489,ph,pulo,pulo,ph,14.25,121.13,25.0,1.0,83.0,20.0
+490,de,recklinghausen,recklinghausen,de,51.61,7.2,1.0,3.6,81.0,20.0
+491,ug,ibanda,ibanda,ug,0.33,30.08,16.13,0.88,93.0,48.0
+494,de,spiesen-elversberg,spiesen-elversberg,de,49.31,7.14,1.0,2.1,88.0,0.0
+495,de,marbach,marbach,de,48.38,9.42,5.0,3.1,93.0,0.0
+497,rs,obrenovac,obrenovac,rs,44.66,20.2,12.0,0.5,100.0,75.0
+498,ru,ozinki,ozinki,ru,51.2,49.73,-0.2,5.08,92.0,12.0
+499,co,anserma,anserma,co,5.23,-75.79,23.0,2.6,93.0,75.0
